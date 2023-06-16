@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+
+display: flex;
+justify-content: center;
+
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: #eee;
+  text-align: center;
+  margin: auto;
+}
+
+.card img{
+  width: 250px;
+  height: 230px;
+  border-radius: 6px 6px 0 0; 
+}
+
+.card .nome-lanche{
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  border-radius:  0px 0px 6px 6px;
+  border: 1px solid #0000002d;
+  border-top: none;
+  padding: 15px;
+}
+
+
+.card .nome-lanche button{
+
+  background-color: rgba(235, 99, 99, 0.918);
+  color: #fff;
+  border-radius: 5px;
+  width: 50px;
+  margin: auto;
+  margin-top: 10px;
+  border: 0;
+  padding: 4px;
+  margin-top: 1px;
+  border: 1px solid red;
+}
+
+
+.card h1{
+font-size: 25px;
+width: 210px;
+
+}
+
+
+/* PROJETO EM CONSTRUÇÃO */

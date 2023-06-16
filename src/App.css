@@ -1,0 +1,56 @@
+/* .App{
+
+ 
+}
+ */
+
+.pesquisa button{
+
+  background-color: rgba(235, 99, 99, 0.918);
+  color: #fff;
+  border-radius: 5px;
+  margin: auto;
+  border: 10px;
+  padding: 5px 15px ; 
+  margin-top: 5px; 
+  cursor: pointer;
+  width: 80px;
+  
+}
+
+.pesquisa h1{
+  text-align: center;
+  
+}
+
+.input{
+  width: 200px;
+  border-radius: 20px;
+  margin: auto;
+  text-align: center;
+}
+
+
+.pesquisa form{
+margin-top: 5px;
+display: flex;
+flex-direction: column;
+
+
+
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin: auto;
+  width: 99;
+  
+  
+  
+}
+
+
+
+/* PROJETO EM CONSTRUÇÃO */
